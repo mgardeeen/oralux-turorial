@@ -1,4 +1,4 @@
-# ORALUX WEB SYSTEN
+# ORALUX WEB SYSTEM
 
 Technologies used:
 HTML
