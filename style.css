@@ -63,7 +63,7 @@ header nav ul li a[href="#appointment"]:hover {
     align-items: center;  
     justify-content: flex-start;  
     background-color: #dfeefb; 
-    background-image: linear-gradient(rgb(39, 100, 180, 0.75), rgb(0, 0, 0, 0)), url('images/hero-bg.jpg');
+    background-image: linear-gradient(rgb(39, 100, 180, 0.75), rgb(0, 0, 0, 0)), url('hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
