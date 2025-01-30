@@ -13,4 +13,6 @@ For Database:
 
 ACCESS THE WEBSITE:
 http://127.0.0.1:5500/index.html 
+// or
+https://oralux-turorial.vercel.app/ 
 
