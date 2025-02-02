@@ -3,16 +3,12 @@
 Technologies used:
 HTML
 CSS
-JavaScript
+PHP
 
 Applications:
-Visual Studio Code (Frontend & Backend)
+Visual Studio Code 
+XAMPP
 
-For Database:
-
-
-ACCESS THE WEBSITE:
-http://127.0.0.1:5500/index.html 
-// or
+Acess the Website:
 https://oralux-turorial.vercel.app/ 
 
